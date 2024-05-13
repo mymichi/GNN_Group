@@ -43,3 +43,11 @@
 2.王祉羿
 
 3.王潇桦:2023 Towards Understanding the Generalization of Graph Neural Networks
+
+#2024-05-12 -- 2024-05-18
+
+1.卢志远
+
+2.王祉羿
+
+3.王潇桦:2023 Towards Understanding the Generalization of Graph Neural Networks
